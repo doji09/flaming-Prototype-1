@@ -39,43 +39,6 @@ There are so much categories user can find their products according to their nee
 
 Whenever any product is added to the cart, the Cart page display no. of products added to the cart and the container containing the product you added to the cart . From where you can change the quantity of a perticular product.And you can place order by clicking on checkout button.
 
-![Screenshot (991)](https://user-images.githubusercontent.com/96018330/146671924-089f5e51-cc85-4513-b9a9-9dfd4d5cf3c5.png)
-
-
-## Login : 
-
-![Screenshot (994)](https://user-images.githubusercontent.com/96018330/146672036-fc855f51-67a7-44e0-a987-2062c30c7e98.png)
-
-## Signup :
-
-![Screenshot (995)](https://user-images.githubusercontent.com/96018330/146672040-45e8f777-0b67-4847-b2d8-915244a1bbde.png)
-
-## Payment Page :
-
-![Screenshot (992)](https://user-images.githubusercontent.com/96018330/146672020-3c743f35-489a-42ce-b823-09db6ad5fdb5.png)
-
-
-![Screenshot (993)](https://user-images.githubusercontent.com/96018330/146672694-840e851b-346a-4ae9-b882-422fcd5b320e.png)
-
-
-## Limitation :
-
-Not responsive yet and might not be properly visible on small screen devices.
-
-## Contributors :
-
-1. Anjum Ara : https://github.com/anjumara07
-
-2. Raj Singh : https://github.com/CoderRaj098
-
-3. Divyansh Singh Sikarwar : https://github.com/divyansh050
-
-4. Jatin Sharma : https://github.com/jatinsharma9871
-
-5. Deepak Kelodiya : https://github.com/deepakkelodiya
-
-6. Sagar Gulia : https://github.com/sagargulia1
-
 
 ## Our blog link :
 
