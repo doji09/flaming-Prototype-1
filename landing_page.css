@@ -5,7 +5,7 @@
 #navbar{
     display: flex;
     width: 100%;
-    height: 62px;
+    height: 70px;
     font-family: Camphor,Helvetica,Arial,sans-serif;
     border-bottom: 1px solid #d3d3d3;
     font-size: 15px;
@@ -19,11 +19,11 @@
 }
 
 #navbar>div{
-    margin-top: 10px;
+    margin-top: 7px;
 }
 #navbar>.box{
-    width: 125px;
-    margin-right: 8px;
+    width: 1000px;
+    margin-right: 100px;
 }
 #navbar>.box>p{
     font-size: 12px;
@@ -32,17 +32,17 @@
     margin-top: 4px;  
 }
 #navbar>div>h4{
-    margin: 0px;
-    margin-top: 3px;
+    margin: 20px;
+    margin-top: 30px;
 }
 #navbar>#login{
     height: 15px;
     display: flex;
     font-size: 13px;
     color: #787887;
-    border-radius: 4px;
+    border-radius: 40px;
     border: solid 1px #d3d3d3;
-    padding: 8px;
+    padding: 7px;
     padding-bottom: 10px;
 }
 #navbar>div>select{
@@ -51,8 +51,8 @@
     width: 90%;
 }
 .logo{
-    width: 10%;   
-    margin: 0px 25px;
+    width: 20%;   
+    margin: 100px 25px;
 }
 #login>div{
     margin: 2px;
@@ -574,4 +574,5 @@
 
 
 /* footer */
+
 
