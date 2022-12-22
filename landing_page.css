@@ -17,6 +17,12 @@
     background-color: white;
     z-index: 1;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
 
 #navbar>div{
     margin-top: 7px;
